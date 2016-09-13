@@ -31,10 +31,6 @@
     "url": "https://github.com/gkcgautam/node-package-starter-kit/issues"
   },
   "homepage": "https://github.com/gkcgautam/node-package-starter-kit#readme",
-  "dependencies": {
-    "socket.io": "^1.4.8",
-    "socketio-wildcard": "^0.3.0"
-  },
   "devDependencies": {
     "babel-cli": "^6.14.0",
     "babel-preset-es2015": "^6.14.0",
